@@ -6,7 +6,16 @@ Provides token replacements for all properties that have no tokens and are
 known to the entity API. Enable to use.
 
 **Note on Drupal compatibility:** Unlike the Drupal 7 version, this Backdrop
-version uses underscores in tokens rather than dashes.
+version uses underscores in tokens rather than dashes.1
+
+
+Requirements
+------------
+
+This module requires that the following modules are also enabled:
+
+- [Entity Plus](https://backdropcms.org/project/entity_plus)
+
 
 LICENSE
 ---------------    
